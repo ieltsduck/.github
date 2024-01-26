@@ -1,3 +1,5 @@
+![hero_background](https://github.com/ieltsduck/.github/assets/6133656/ec704ed8-841b-48e3-94be-d028f22168f1)
+
 <div align="center">
   <h1>IELTS Duck: Boost Your IELTS Speaking Score</h1>
   <a href="https://ieltsduck.com">Website</a>
